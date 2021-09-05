@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Quick">
+        <file>Quick/Test.qml</file>
+        <file>Quick/TestForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/widget">
+        <file>widget/common_backgroud.qml</file>
+        <file>widget/Ink.qml</file>
+        <file>widget/MyLabel.qml</file>
+        <file>widget/TextButton.qml</file>
+    </qresource>
+</RCC>

@@ -1,2 +1,2 @@
-RESOURCES += \
+RESOURCES *= \
     $$PWD/UIWidget.qrc
